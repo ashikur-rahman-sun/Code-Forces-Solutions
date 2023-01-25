@@ -1,4 +1,4 @@
-# Code-Forces-Solutions
+# Code-Forces-Solutions-Easy-Problem
 The collection of Codeforces questions helps the beginner to understand
 One hot summer day Pete and his friend Billy decided to buy a watermelon. They chose the biggest and 
 the ripest one, in their opinion. After that the watermelon was weighed, and the scales showed w kilos.
